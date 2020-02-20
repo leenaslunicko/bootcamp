@@ -1,4 +1,4 @@
-Vytvořte  si na GITHUBu novou repozitory
+Vytvořte  si na HOUBĚ novou repozitory
 Naclonujte si ho k sobě pomocí Gitbash
 Ve větvi master nahrajte nějaký defaultní obsah, např. soubory RF testů nebo vytvořené stránky z vedlejšího cvičení. At tam je třeba Txt soubor, html, css, nebo robot soubory.
 Názvy větví volte vhodně, stejně tak commit message.
